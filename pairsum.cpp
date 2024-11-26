@@ -6,6 +6,7 @@ using namespace std;
 
 int main(){
 
-    int target = 14;
+    int target = 11;
+    
 
 }
